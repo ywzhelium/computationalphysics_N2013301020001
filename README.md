@@ -2,4 +2,12 @@
 
 ##第一次作业
 
-https://stackedit.io/editor
+###Hello
+
+####Introduction tomyself
+
+My  name  is  *Yao Wenzhe*. I  want  to  make  friends  with  all  classmates.
+
+I  like  **watching  animes**, and  **playing  computer  games**.
+
+I  think  I  am  the  one  who  are  easy-going  and  outgoing.
