@@ -15,4 +15,4 @@ I  think  I  am  the  one  who  are  easy-going  and  outgoing.
 
 ##第2&3次作业
 
-【**第2&3次作业**】（https://github.com/ywzhelium/computationalphysics_N2013301020001/blob/master/第2&3次作业/）
+【**第2&3次作业**】(https://www.baidu.com)
